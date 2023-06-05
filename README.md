@@ -2,7 +2,7 @@
 
 **`iOS Learner`**
 
-I'm passionate about iOS world. Now, I'm looking for an iOS developer position.
+I'm passionate about iOS world. Now, I'm looking for iOS developer position.
 
    <!-- <p align="left">
       <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">

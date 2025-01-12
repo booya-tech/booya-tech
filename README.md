@@ -1,10 +1,15 @@
 # BooyaTech
 
 **`iOS Learner`**
+<<<<<<< HEAD
 <!-- 
 I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my YouTube channel "[ForrestKnight][youtube]" to more than 400k subscribers.
+=======
 
-   <p align="left">
+I have a strong passion for the iOS world and I am actively seeking a position as an iOS developer.
+>>>>>>> origin/main
+
+   <!-- <p align="left">
       <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
          <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
       <a href="https://www.youtube.com/c/fknight">
@@ -16,6 +21,7 @@ I'm an indie full-stack developer and content creator building my version of the
    </p> -->
 
 ---
+<<<<<<< HEAD
 ### 🧰 Languages and Tools
 <img align="left" alt="Apple" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg"/>
 <img align="left" alt="Swift" width="30px" style="padding-right:10px;" src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8ed3d547-94ff-48e1-9f20-8c14a7030a02_2000x2000.jpeg"/>
@@ -23,6 +29,20 @@ I'm an indie full-stack developer and content creator building my version of the
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+=======
+
+### Languages and Tools
+
+<img align="left" alt="Xcode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg"/>
+<img align="left" alt="Swift" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg"/>
+<img align="left" alt="Firebase" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"/>
+<img align="left" alt="Visual Studio Code" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="Figma" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
+<img align="left" alt="Gitlab" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg"/>
+>>>>>>> origin/main
 <br />
 
 #
@@ -42,21 +62,28 @@ I'm an indie full-stack developer and content creator building my version of the
 
 #
 
-### 📊 Stats
+<!-- ### 📊 Stats
 
+<<<<<<< HEAD
 ![Booya's GitHub stats](https://github-readme-stats.vercel.app/api?username=booya-tech&show_icons=true&theme=gruvbox)
+=======
+![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=forrestknight&show_icons=true&theme=gruvbox) -->
+>>>>>>> origin/main
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=booya-tech&theme=gruvbox&border_radius=4.5)
 
 #
 
 <details>
+<<<<<<< HEAD
  <summary><h3>My Coding Journey</h3></summary>
    I began my coding journey as an information technology student with a deep passion for learning everything I could about the world of programming. Along the way, I taught myself iOS development, driven by a dream to create an app that would positively impact others and help them live better lives every day. This dedication led to my first job as an iOS developer upon graduation.
 
    At the same time, I was pursuing another aspiration: becoming a content creator. I’ve been consistently posting at least two videos per month on Instagram Reels to grow my audience, with the ultimate goal of transitioning to YouTube in the future.
 
    Currently, I am an iOS developer with nearly one year of experience. I’m committed to honing my skills, striving to become an expert in iOS development, and working toward my dream of creating applications that make people’s lives better.
+=======
+ <summary><h3>Booya's Coding Journey</h3></summary>
+   Will Update Soon ^ ^.
+>>>>>>> origin/main
 
-[website]: https://fkcodes.com
-[youtube]: https://youtube.com/fknight

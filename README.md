@@ -15,13 +15,13 @@ Self-taught iOS Developer with 1 year of experience with iOS projects eager to l
    
 #
 ### Languages and Tools
-<img align="left" alt="Xcode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg"/>
+<!-- <img align="left" alt="Xcode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg"/> -->
+<img align="left" alt="Xcode" width="30px" style="padding-right:10px;" src="https://developer.apple.com/assets/elements/icons/xcode-12/xcode-12-96x96_2x.png"/>
 <img align="left" alt="UIKit" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg"/>
 <img align="left" alt="SwiftUI" width="30px" style="padding-right:10px;" src="https://www.agiratech.com/wp-content/uploads/2019/08/swiftui-96x96_2x.png"/>
 <img align="left" alt="Firebase" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"/>
 <img align="left" alt="Figma" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
 <img align="left" alt="Gitlab" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg"/>
-#
 <!-- ### 📺 Latest YouTube Videos -->
 
 <!-- BEGIN YOUTUBE-CARDS -->

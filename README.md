@@ -3,10 +3,10 @@
 **`iOS Learner`**
 Self-taught iOS Developer with 1 year of experience with iOS projects eager to learn and develop myself.
 
+<!--
 ---
 ### Languages and Tools
-<!-- <img align="left" alt="Xcode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg"/> -->
-<!--
+<!-- <img align="left" alt="Xcode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg"/>
 <img align="left" alt="Xcode" width="30px" style="padding-right:10px;" src="https://developer.apple.com/assets/elements/icons/xcode-cloud/xcode-cloud-128x128_2x.png"/>
 <img align="left" alt="Cursor" width="30px" style="padding-right:10px;" src="https://ai-cursor.com/wp-content/uploads/2024/09/logo-cursor-ai-png.webp"/>
 <img align="left" alt="UIKit" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg"/>
@@ -20,6 +20,8 @@ Self-taught iOS Developer with 1 year of experience with iOS projects eager to l
 <img align="left" alt="Figma" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/> 
 <br/><br/>
 -->
+---
+
 ### 🚀 Languages and Tools
 <span title="Xcode">
   <img align="left" alt="Xcode" width="30px" style="padding-right:10px;" src="https://developer.apple.com/assets/elements/icons/xcode-12/xcode-12-96x96_2x.png" />
@@ -39,7 +41,8 @@ Self-taught iOS Developer with 1 year of experience with iOS projects eager to l
 <span title="GitLab">
   <img align="left" alt="GitLab" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" />
 </span>
-<br/><br/>
+<br/>
+
 ---
 
 ### 📊 Stats

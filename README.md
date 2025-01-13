@@ -2,6 +2,8 @@
 
 **`iOS Learner`**
 Self-taught iOS Developer with 1 year of experience with iOS projects eager to learn and develop myself.
+
+---
    <!-- <p align="left">
       <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
          <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
@@ -12,8 +14,7 @@ Self-taught iOS Developer with 1 year of experience with iOS projects eager to l
       <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p> -->
-   
-#
+---
 ### Languages and Tools
 <!-- <img align="left" alt="Xcode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg"/> -->
 <img align="left" alt="Xcode" width="30px" style="padding-right:10px;" src="https://developer.apple.com/assets/elements/icons/xcode-12/xcode-12-96x96_2x.png"/>
@@ -22,8 +23,9 @@ Self-taught iOS Developer with 1 year of experience with iOS projects eager to l
 <img align="left" alt="Firebase" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"/>
 <img align="left" alt="Figma" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
 <img align="left" alt="Gitlab" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg"/>
-<!-- ### 📺 Latest YouTube Videos -->
+<br/><br/>
 
+<!-- ### 📺 Latest YouTube Videos -->
 <!-- BEGIN YOUTUBE-CARDS -->
 <!-- [![The Making of GNU: The World's First Open-Source Software](https://ytcards.demolab.com/?id=sQDvkd2wtxU&title=The+Making+of+GNU%3A+The+World%27s+First+Open-Source+Software&lang=en&timestamp=1684076438&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=484 "The Making of GNU: The World's First Open-Source Software")](https://www.youtube.com/watch?v=sQDvkd2wtxU)
 [![AI bots were given freedom in a virtual city…](https://ytcards.demolab.com/?id=FBvyxc0PSlc&title=AI+bots+were+given+freedom+in+a+virtual+city%E2%80%A6&lang=en&timestamp=1683126008&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=291 "AI bots were given freedom in a virtual city…")](https://www.youtube.com/watch?v=FBvyxc0PSlc)
@@ -35,23 +37,28 @@ Self-taught iOS Developer with 1 year of experience with iOS projects eager to l
 
 <!-- [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/fknight?sub_confirmation=1) -->
 
-#
+---
+
 ### 📊 Stats
 ![Booya's GitHub stats](https://github-readme-stats.vercel.app/api?username=booya-tech&show_icons=true&theme=discord_old_blurple)
 <!-- ![GitHub Streak](https://streak-stats.demolab.com/?user=booya-tech&theme=gruvbox&border_radius=4.5) -->
-#
 
-#
+---
+
+---
+
 ### 📌 My Application - Repo Card
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=booya-tech&repo=WaterReminder&theme=discord_old_blurple)](https://github.com/booya-tech/WaterReminder)
 <!-- ![GitHub Streak](https://streak-stats.demolab.com/?user=booya-tech&theme=gruvbox&border_radius=4.5) -->
-#
+
+---
 
 <details>
- <summary><h3>My Coding Journey</h3></summary>
-   I began my coding journey as an information technology student with a deep passion for learning everything I could about the world of programming. Along the way, I taught myself iOS development, driven by a dream to create an app that would positively impact others and help them live better lives every day. This dedication led to my first job as an iOS developer upon graduation.
+ <summary><h3>📖 My Coding Journey</h3></summary>
+I began my coding journey as an information technology student with a deep passion for learning everything I could about the world of programming. Along the way, I taught myself iOS development, driven by a dream to create an app that would positively impact others and help them live better lives every day. This dedication led to my first job as an iOS developer upon graduation.
 
-   At the same time, I was pursuing another aspiration: becoming a content creator. I’ve been consistently posting at least two videos per month on Instagram Reels to grow my audience, with the ultimate goal of transitioning to YouTube in the future.
+At the same time, I was pursuing another aspiration: becoming a content creator. I’ve been consistently posting at least two videos per month on Instagram Reels to grow my audience, with the ultimate goal of transitioning to YouTube in the future.
 
-   Currently, I am an iOS developer with nearly one year of experience. I’m committed to honing my skills, striving to become an expert in iOS development, and working toward my dream of creating applications that make people’s lives better.
+Currently, I am an iOS developer with nearly one year of experience. I’m committed to honing my skills, striving to become an expert in iOS development, and working toward my dream of creating applications that make people’s lives better.
+</details>
 

@@ -6,10 +6,14 @@
   <a href="https://www.linkedin.com/in/boo-pannachai/">LinkedIn</a>
 </p>
 
+---
+
 <div align="center">
   <strong><code>iOS Learner</code></strong><br>
   Self-taught iOS Developer with 1 year of experience with iOS projects eager to learn and develop myself.
 </div>
+
+---
 <!--
 ---
 ### Languages and Tools
@@ -28,6 +32,7 @@
 <br/><br/>
 -->
 ---
+
 ### 🛠️ Languages and Tools
 <span title="Xcode">
   <img align="left" alt="Xcode" width="30px" style="padding-right:10px;" src="https://developer.apple.com/assets/elements/icons/xcode-cloud/xcode-cloud-128x128_2x.png" />

@@ -20,7 +20,6 @@ Self-taught iOS Developer with 1 year of experience with iOS projects eager to l
 <img align="left" alt="Firebase" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"/>
 <img align="left" alt="Figma" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
 <img align="left" alt="Gitlab" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg"/>
-<br />
 
 <!-- ### 📺 Latest YouTube Videos -->
 
@@ -43,7 +42,7 @@ Self-taught iOS Developer with 1 year of experience with iOS projects eager to l
 
 #
 ### 📌 Repo Card
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=booya-tech&repo=github-readme-stats)](https://github.com/booya-tech/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=booya-tech&repo=github-readme-stats)](https://github.com/booya-tech/WaterReminder)
 <!-- ![GitHub Streak](https://streak-stats.demolab.com/?user=booya-tech&theme=gruvbox&border_radius=4.5) -->
 #
 

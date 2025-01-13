@@ -37,8 +37,7 @@ Self-taught iOS Developer with 1 year of experience with iOS projects eager to l
 
 #
 ### 📊 Stats
-![Booya's GitHub repo card](https://github-readme-stats.vercel.app/api/pin/?username=booya-tech&repo=github-readme-stats)](https://github.com/booya-tech/github-readme-stats)
-![Booya's GitHub stats](https://github-readme-stats.vercel.app/api?username=booya-tech&show_icons=true&theme=discord_old_blurple)
+[![Booya's GitHub stats](https://github-readme-stats.vercel.app/api?username=booya-tech&show_icons=true&theme=discord_old_blurple)
 <!-- ![GitHub Streak](https://streak-stats.demolab.com/?user=booya-tech&theme=gruvbox&border_radius=4.5) -->
 #
 

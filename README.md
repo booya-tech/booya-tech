@@ -6,10 +6,8 @@
   <a href="https://www.linkedin.com/in/boo-pannachai/">LinkedIn</a>
 </p>
 
----
-
 <div align="center">
-  <strong><code>iOS Learner</code></strong><br>
+  <strong><code>iOS Learner</code></strong>
   Self-taught iOS Developer with 1 year of experience with iOS projects eager to learn and develop myself.
 </div>
 

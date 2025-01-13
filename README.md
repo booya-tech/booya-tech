@@ -7,7 +7,7 @@ Self-taught iOS Developer with 1 year of experience with iOS projects eager to l
 ### Languages and Tools
 <!-- <img align="left" alt="Xcode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg"/> -->
 <img align="left" alt="Xcode" width="30px" style="padding-right:10px;" src="https://developer.apple.com/assets/elements/icons/xcode-cloud/xcode-cloud-128x128_2x.png"/>
-<img align="left" alt="Cursor" width="30px" style="padding-right:10px;" src="https://www.cursor.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo-dark.c2eae9ea.png&w=3840&q=100"/>
+<img align="left" alt="Cursor" width="30px" style="padding-right:10px;" src="https://ai-cursor.com/wp-content/uploads/2024/09/logo-cursor-ai-png.webp"/>
 <img align="left" alt="UIKit" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg"/>
 <img align="left" alt="SwiftUI" width="30px" style="padding-right:10px;" src="https://www.agiratech.com/wp-content/uploads/2019/08/swiftui-96x96_2x.png"/>
 <img align="left" alt="Firebase" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"/>

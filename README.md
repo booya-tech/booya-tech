@@ -17,8 +17,21 @@ Self-taught iOS Developer with 1 year of experience with iOS projects eager to l
 ---
 
 ### 📊 Stats
-![Booya's GitHub stats](https://github-readme-stats.vercel.app/api?username=booya-tech&show_icons=true&theme=discord_old_blurple)
+<!-- ![Booya's GitHub stats](https://github-readme-stats.vercel.app/api?username=booya-tech&show_icons=true&theme=discord_old_blurple)
 <!-- ![GitHub Streak](https://streak-stats.demolab.com/?user=booya-tech&theme=gruvbox&border_radius=4.5) -->
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=booya-tech&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=booya-tech&show_icons=true&theme=duefy"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=booya-tech&show_icons=true" alt="Booya's GitHub Stats" />
+</picture>
+
+
 ---
 
 ### 📌 My Application - Repo Card

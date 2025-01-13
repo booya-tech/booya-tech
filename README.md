@@ -10,7 +10,7 @@ Self-taught iOS Developer with 1 year of experience with iOS projects eager to l
 <img align="left" alt="Cursor" width="30px" style="padding-right:10px;" src="https://ai-cursor.com/wp-content/uploads/2024/09/logo-cursor-ai-png.webp"/>
 <img align="left" alt="UIKit" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg"/>
 <img align="left" alt="SwiftUI" width="30px" style="padding-right:10px;" src="https://www.agiratech.com/wp-content/uploads/2019/08/swiftui-96x96_2x.png"/>
-<img align="left" alt="Firebase" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"/>
+<img align="left" alt="Firebase" width="30px" style="padding-right:10px;" src="https://www.cdnlogo.com/logos/f/48/firebase.svg"/>
 <img align="left" alt="Supabase" width="30px" style="padding-right:10px;" src="https://pipedream.com/s.v0/app_1dBhP3/logo/96"/>
 <img align="left" alt="Gitlab" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg"/>
 <img align="left" alt="GitKraken" width="30px" style="padding-right:10px;" src="https://static-00.iconduck.com/assets.00/gitkraken-icon-2048x2016-psc1payu.png"/>

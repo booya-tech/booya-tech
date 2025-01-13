@@ -11,7 +11,6 @@
   Self-taught iOS Developer with 1 year of experience with iOS projects eager to learn and develop myself.
 </div>
 
----
 <!--
 ---
 ### Languages and Tools

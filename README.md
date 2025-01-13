@@ -1,4 +1,10 @@
-# Boo Pannachai 
+<h3 align="center">Boo Pannachai</h3>
+
+<p align="center">
+  <a href="https://www.youtube.com/@booyadev-d7q">YouTube</a> •
+  <a href="https://www.instagram.com/boo.pannachai/">Instagram</a> •
+  <a href="https://www.linkedin.com/in/boo-pannachai/">LinkedIn</a>
+</p>
 
 **`iOS Learner`**
 Self-taught iOS Developer with 1 year of experience with iOS projects eager to learn and develop myself.

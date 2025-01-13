@@ -42,7 +42,7 @@ Self-taught iOS Developer with 1 year of experience with iOS projects eager to l
 
 #
 ### 📌 Repo Card
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=booya-tech&repo=github-readme-stats)](https://github.com/booya-tech/WaterReminder)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=booya-tech&repo=WaterReminder)](https://github.com/booya-tech/WaterReminder)
 <!-- ![GitHub Streak](https://streak-stats.demolab.com/?user=booya-tech&theme=gruvbox&border_radius=4.5) -->
 #
 

@@ -21,7 +21,7 @@ Self-taught iOS Developer with 1 year of experience with iOS projects eager to l
 <br/><br/>
 -->
 ---
-### 🚀 Languages and Tools
+### 🛠️ Languages and Tools
 <span title="Xcode">
   <img align="left" alt="Xcode" width="30px" style="padding-right:10px;" src="https://developer.apple.com/assets/elements/icons/xcode-cloud/xcode-cloud-128x128_2x.png" />
 </span>
@@ -77,7 +77,7 @@ Self-taught iOS Developer with 1 year of experience with iOS projects eager to l
 
 ---
 
-### 📌 My Application - Repo Card
+### 🧑🏻‍💻 My Application - Repo Card
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=booya-tech&repo=WaterReminder&theme=discord_old_blurple)](https://github.com/booya-tech/WaterReminder)
 <!-- ![GitHub Streak](https://streak-stats.demolab.com/?user=booya-tech&theme=gruvbox&border_radius=4.5) -->
 <picture>
@@ -95,7 +95,7 @@ Self-taught iOS Developer with 1 year of experience with iOS projects eager to l
 ---
 
 <details>
- <summary><h3>📖 My Coding Journey</h3></summary>
+ <summary><h3> 📖 My Coding Journey</h3></summary>
 I began my coding journey as an information technology student with a deep passion for learning everything I could about the world of programming. Along the way, I taught myself iOS development, driven by a dream to create an app that would positively impact others and help them live better lives every day. This dedication led to my first job as an iOS developer upon graduation.
 
 At the same time, I was pursuing another aspiration: becoming a content creator. I’ve been consistently posting at least two videos per month on Instagram Reels to grow my audience, with the ultimate goal of transitioning to YouTube in the future.

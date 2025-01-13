@@ -14,7 +14,7 @@ Self-taught iOS Developer with 1 year of experience with iOS projects eager to l
 <img align="left" alt="Gitlab" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg"/>
 <img align="left" alt="GitKraken" width="30px" style="padding-right:10px;" src="https://static-00.iconduck.com/assets.00/gitkraken-icon-2048x2016-psc1payu.png"/>
 <img align="left" alt="Postman" width="30px" style="padding-right:10px;" src="https://static-00.iconduck.com/assets.00/postman-icon-2048x2048-dsydvxav.png"/>
-<img align="left" alt="ProxyMan" width="30px" style="padding-right:10px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHPcdYztKrqpt-iMHgP27fmSB2oE1Xdb54FP2k6RkrvjGqznzLfkvvlgFPYRHIZY9IQ-M&usqp=CAU"/>
+<img align="left" alt="ProxyMan" width="30px" style="padding-right:10px;" src="https://proxyman.imgix.net/assets/images/AppIcon_v2.png?auto=format&fit=max&w=128"/>
 <img align="left" alt="Figma" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/> 
 <br/><br/>
 

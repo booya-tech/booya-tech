@@ -41,6 +41,12 @@ Self-taught iOS Developer with 1 year of experience with iOS projects eager to l
 <!-- ![GitHub Streak](https://streak-stats.demolab.com/?user=booya-tech&theme=gruvbox&border_radius=4.5) -->
 #
 
+#
+### 📌 Repo Card
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=booya-tech&repo=github-readme-stats)](https://github.com/booya-tech/github-readme-stats)
+<!-- ![GitHub Streak](https://streak-stats.demolab.com/?user=booya-tech&theme=gruvbox&border_radius=4.5) -->
+#
+
 <details>
  <summary><h3>My Coding Journey</h3></summary>
    I began my coding journey as an information technology student with a deep passion for learning everything I could about the world of programming. Along the way, I taught myself iOS development, driven by a dream to create an app that would positively impact others and help them live better lives every day. This dedication led to my first job as an iOS developer upon graduation.

@@ -21,7 +21,7 @@ Self-taught iOS Developer with 1 year of experience with iOS projects eager to l
 <!-- ![GitHub Streak](https://streak-stats.demolab.com/?user=booya-tech&theme=gruvbox&border_radius=4.5) -->
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=booya-tech&show_icons=true&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api?username=booya-tech&show_icons=true&theme=discord_old_blurple"
     media="(prefers-color-scheme: dark)"
   />
   <source
@@ -35,8 +35,19 @@ Self-taught iOS Developer with 1 year of experience with iOS projects eager to l
 ---
 
 ### 📌 My Application - Repo Card
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=booya-tech&repo=WaterReminder&theme=discord_old_blurple)](https://github.com/booya-tech/WaterReminder)
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=booya-tech&repo=WaterReminder&theme=discord_old_blurple)](https://github.com/booya-tech/WaterReminder)
 <!-- ![GitHub Streak](https://streak-stats.demolab.com/?user=booya-tech&theme=gruvbox&border_radius=4.5) -->
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/pin/?username=booya-tech&repo=WaterReminder&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/pin/?username=booya-tech&repo=WaterReminder&theme=duefy"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=booya-tech&repo=WaterReminder" alt="WaterReminder Repo Card" />
+</picture>
 
 ---
 

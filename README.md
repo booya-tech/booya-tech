@@ -70,26 +70,55 @@
 ---
 
 ### 🧑🏻‍💻 My Application - Repo Card
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=booya-tech&repo=WaterReminder&theme=discord_old_blurple)](https://github.com/booya-tech/WaterReminder)
+<!-- ![GitHub Streak](https://streak-stats.demolab.com/?user=booya-tech&theme=gruvbox&border_radius=4.5) -->
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/pin/?username=booya-tech&repo=WaterReminder&theme=github_dark_dimmed"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/pin/?username=booya-tech&repo=WaterReminder&theme=github_dark_dimmed"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=booya-tech&repo=WaterReminder" alt="WaterReminder Repo Card" />
+</picture>
 
-<div align="left" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; max-width: 900px; margin: auto;">
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/pin/?username=booya-tech&repo=ChatBotAI&theme=github_dark_dimmed"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/pin/?username=booya-tech&repo=ChatBotAI&theme=github_dark_dimmed"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=booya-tech&repo=ChatBotAI" alt="ChatBotAI Repo Card" />
+</picture>
 
-  <picture>
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=booya-tech&repo=WaterReminder&theme=github_dark_dimmed" alt="WaterReminder" width="420" />
-  </picture>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/pin/?username=booya-tech&repo=SwiftUIFirebaseAuthentication&theme=github_dark_dimmed"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/pin/?username=booya-tech&repo=SwiftUIFirebaseAuthentication&theme=duegithub_dark_dimmedfy"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=booya-tech&repo=SwiftUIFirebaseAuthentication" alt="SwiftUIFirebaseAuthentication Repo Card" />
+</picture>
 
-  <picture>
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=booya-tech&repo=ChatBotAI&theme=github_dark_dimmed" alt="ChatBotAI" width="420" />
-  </picture>
-
-  <picture>
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=booya-tech&repo=SwiftUIFirebaseAuthentication&theme=github_dark_dimmed" alt="SwiftUIFirebaseAuthentication" width="420" />
-  </picture>
-
-  <picture>
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=booya-tech&repo=NetflixClone&theme=github_dark_dimmed" alt="NetflixClone" width="420" />
-  </picture>
-
-</div>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/pin/?username=booya-tech&repo=NetflixClone&theme=github_dark_dimmed"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/pin/?username=booya-tech&repo=NetflixClone&theme=github_dark_dimmed"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=booya-tech&repo=SwiftUIFirebaseAuthentication" alt="NetflixClone Repo Card" />
+</picture>
 
 ---
 

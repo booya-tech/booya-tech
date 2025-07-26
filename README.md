@@ -8,7 +8,7 @@
 
 <div align="center">
   <strong><code>iOS Learner</code></strong>
-  Self-taught iOS Developer with 1 year of experience with iOS projects eager to learn and develop myself.
+  Self-taught iOS Developer with 2 years of experience with iOS projects eager to learn and develop myself.
 </div>
 
 ---
@@ -56,11 +56,11 @@
 <!-- ![GitHub Streak](https://streak-stats.demolab.com/?user=booya-tech&theme=gruvbox&border_radius=4.5) -->
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=booya-tech&show_icons=true&theme=discord_old_blurple"
+    srcset="https://github-readme-stats.vercel.app/api?username=booya-tech&show_icons=true&theme=github_dark_dimmed"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=booya-tech&show_icons=true&theme=duefy"
+    srcset="https://github-readme-stats.vercel.app/api?username=booya-tech&show_icons=true&theme=github_dark_dimmed"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=booya-tech&show_icons=true" alt="Booya's GitHub Stats" />
@@ -70,19 +70,26 @@
 ---
 
 ### 🧑🏻‍💻 My Application - Repo Card
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=booya-tech&repo=WaterReminder&theme=discord_old_blurple)](https://github.com/booya-tech/WaterReminder)
-<!-- ![GitHub Streak](https://streak-stats.demolab.com/?user=booya-tech&theme=gruvbox&border_radius=4.5) -->
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/pin/?username=booya-tech&repo=WaterReminder&theme=discord_old_blurple"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/pin/?username=booya-tech&repo=WaterReminder&theme=duefy"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=booya-tech&repo=WaterReminder" alt="WaterReminder Repo Card" />
-</picture>
+
+<div align="left" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; max-width: 900px; margin: auto;">
+
+  <picture>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=booya-tech&repo=WaterReminder&theme=github_dark_dimmed" alt="WaterReminder" width="420" />
+  </picture>
+
+  <picture>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=booya-tech&repo=ChatBotAI&theme=github_dark_dimmed" alt="ChatBotAI" width="420" />
+  </picture>
+
+  <picture>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=booya-tech&repo=SwiftUIFirebaseAuthentication&theme=github_dark_dimmed" alt="SwiftUIFirebaseAuthentication" width="420" />
+  </picture>
+
+  <picture>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=booya-tech&repo=NetflixClone&theme=github_dark_dimmed" alt="NetflixClone" width="420" />
+  </picture>
+
+</div>
 
 ---
 

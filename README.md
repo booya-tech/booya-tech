@@ -1,95 +1,16 @@
-<h3 align="center">Boo Pannachai</h3>
+### Hi there!
 
-<p align="center">
-  <a href="https://www.youtube.com/@booyadev-d7q">YouTube</a> •
-  <a href="https://www.instagram.com/boo.pannachai/">Instagram</a> •
-  <a href="https://www.linkedin.com/in/boo-pannachai/">LinkedIn</a>
-</p>
-
-<div align="center">
-  <strong><code>iOS Learner</code></strong>
+<div align="left">
+  I'm Boo, iOS Developer based in Bangkok.
   Self-taught iOS Developer with 2 years of experience with iOS projects eager to learn and develop myself.
 </div>
 
-### 📊 Stats
-<!-- ![Booya's GitHub stats](https://github-readme-stats.vercel.app/api?username=booya-tech&show_icons=true&theme=discord_old_blurple)
-<!-- ![GitHub Streak](https://streak-stats.demolab.com/?user=booya-tech&theme=gruvbox&border_radius=4.5) -->
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=booya-tech&show_icons=true&theme=github_dark_dimmed"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=booya-tech&show_icons=true&theme=github_dark_dimmed"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=booya-tech&show_icons=true" alt="Booya's GitHub Stats" />
-</picture>
-
-
----
-
-### 🧑🏻‍💻 My Application - Repo Card
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=booya-tech&repo=WaterReminder&theme=discord_old_blurple)](https://github.com/booya-tech/WaterReminder)
-<!-- ![GitHub Streak](https://streak-stats.demolab.com/?user=booya-tech&theme=gruvbox&border_radius=4.5) -->
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/pin/?username=booya-tech&repo=WaterReminder&theme=github_dark_dimmed"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/pin/?username=booya-tech&repo=WaterReminder&theme=github_dark_dimmed"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=booya-tech&repo=WaterReminder" alt="WaterReminder Repo Card" />
-</picture>
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/pin/?username=booya-tech&repo=ChatBotAI&theme=github_dark_dimmed"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/pin/?username=booya-tech&repo=ChatBotAI&theme=github_dark_dimmed"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=booya-tech&repo=ChatBotAI" alt="ChatBotAI Repo Card" />
-</picture>
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/pin/?username=booya-tech&repo=SwiftUIFirebaseAuthentication&theme=github_dark_dimmed"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/pin/?username=booya-tech&repo=SwiftUIFirebaseAuthentication&theme=duegithub_dark_dimmedfy"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=booya-tech&repo=SwiftUIFirebaseAuthentication" alt="SwiftUIFirebaseAuthentication Repo Card" />
-</picture>
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/pin/?username=booya-tech&repo=NetflixClone&theme=github_dark_dimmed"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/pin/?username=booya-tech&repo=NetflixClone&theme=github_dark_dimmed"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=booya-tech&repo=SwiftUIFirebaseAuthentication" alt="NetflixClone Repo Card" />
-</picture>
-
----
-
-<details>
- <summary><h3> 📖 My Coding Journey</h3></summary>
+#### My Coding Journey:
 I began my coding journey as an information technology student with a deep passion for learning everything I could about the world of programming. Along the way, I taught myself iOS development, driven by a dream to create an app that would positively impact others and help them live better lives every day. This dedication led to my first job as an iOS developer upon graduation.
 
 At the same time, I was pursuing another aspiration: becoming a content creator. I’ve been consistently posting at least two videos per month on Instagram Reels to grow my audience, with the ultimate goal of transitioning to YouTube in the future.
 
 Currently, I am an iOS developer with nearly one year of experience. I’m committed to honing my skills, striving to become an expert in iOS development, and working toward my dream of creating applications that make people’s lives better.
-</details>
 
 <!-- Might use in a future -->
    <!-- <p align="left">

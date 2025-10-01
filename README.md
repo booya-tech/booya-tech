@@ -11,46 +11,6 @@
   Self-taught iOS Developer with 2 years of experience with iOS projects eager to learn and develop myself.
 </div>
 
----
-
-### 🛠️ Languages and Tools
-<span title="Xcode">
-  <img align="left" alt="Xcode" width="30px" style="padding-right:10px;" src="https://developer.apple.com/assets/elements/icons/xcode-cloud/xcode-cloud-128x128_2x.png" />
-</span>
-<span title="Cursor AI">
-  <img align="left" alt="Cursor" width="30px" style="padding-right:10px;" src="https://ai-cursor.com/wp-content/uploads/2024/09/logo-cursor-ai-png.webp" />
-</span>
-<span title="Swift">
-  <img align="left" alt="UIKit" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" />
-</span>
-<span title="SwiftUI">
-  <img align="left" alt="SwiftUI" width="30px" style="padding-right:10px;" src="https://img.icons8.com/fluent/512/swiftui.png" />
-</span>
-<span title="Firebase">
-  <img align="left" alt="Firebase" width="30px" style="padding-right:10px;" src="https://cdn.iconscout.com/icon/free/png-256/free-firebase-3521427-2944871.png?f=webp" />
-</span>
-<span title="Supabase">
-  <img align="left" alt="Supabase" width="30px" style="padding-right:10px;" src="https://pipedream.com/s.v0/app_1dBhP3/logo/96" />
-</span>
-<span title="GitLab">
-  <img align="left" alt="GitLab" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" />
-</span>
-<span title="GitKraken">
-  <img align="left" alt="GitKraken" width="30px" style="padding-right:10px;" src="https://www.gitkraken.com/wp-content/uploads/2021/03/gitkraken-logo-dark-sq.png" />
-</span>
-<span title="Postman">
-  <img align="left" alt="Postman" width="30px" style="padding-right:10px;" src="https://cdn.iconscout.com/icon/free/png-256/free-postman-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-company-brand-vol-5-pack-logos-icons-2945092.png?f=webp" />
-</span>
-<span title="ProxyMan">
-  <img align="left" alt="ProxyMan" width="30px" style="padding-right:10px;" src="https://proxyman.imgix.net/assets/images/AppIcon_v2.png?auto=format&fit=max&w=128" />
-</span>
-<span title="Figma">
-  <img align="left" alt="Figma" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-</span>
-<br/>
-
----
-
 ### 📊 Stats
 <!-- ![Booya's GitHub stats](https://github-readme-stats.vercel.app/api?username=booya-tech&show_icons=true&theme=discord_old_blurple)
 <!-- ![GitHub Streak](https://streak-stats.demolab.com/?user=booya-tech&theme=gruvbox&border_radius=4.5) -->

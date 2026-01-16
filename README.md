@@ -10,7 +10,7 @@ I began my coding journey as an information technology student with a deep passi
 
 At the same time, I was pursuing another aspiration: becoming a content creator. I’ve been consistently posting at least two videos per month on Instagram Reels to grow my audience, with the ultimate goal of transitioning to YouTube in the future.
 
-Currently, I am an iOS developer with nearly one year of experience. I’m committed to honing my skills, striving to become an expert in iOS development, and working toward my dream of creating applications that make people’s lives better.
+Currently, I am a full-time iOS developer with one and half year of experience. I’m committed to honing my skills, striving to become an expert in iOS development, and working toward my dream of creating applications that make people’s lives better.
 
 <!-- Might use in a future -->
    <!-- <p align="left">
